@@ -1,0 +1,51 @@
+{
+    "version": "0.0.113",
+    "plot_id": "e6adacea-e7ad-11f1-bf19-fe12c78780db",
+    "output_directory": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 15,
+                    "min_dist": 0.01,
+                    "layout": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/layouts/umap-e6adacea-e7ad-11f1-bf19-fe12c78780db.json",
+                    "jittered": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/layouts/umap-jittered-e6adacea-e7ad-11f1-bf19-fe12c78780db.json"
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/layouts/grid-e6adacea-e7ad-11f1-bf19-fe12c78780db.json"
+        },
+        "grid": {
+            "layout": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/layouts/rasterfairy-e6adacea-e7ad-11f1-bf19-fe12c78780db.json"
+        },
+        "categorical": false,
+        "date": false,
+        "geographic": null,
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.1111111111111111,
+        "max": 0.13333333333333333,
+        "scatter": 0.022222222222222223,
+        "initial": 0.022222222222222223,
+        "categorical": 0.06666666666666667,
+        "geographic": 0.002777777777777778
+    },
+    "imagelist": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/imagelists/imagelist-e6adacea-e7ad-11f1-bf19-fe12c78780db.json",
+    "atlas_dir": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/atlases/e6adacea-e7ad-11f1-bf19-fe12c78780db",
+    "metadata": false,
+    "default_hotspots": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/hotspots/hotspot-e6adacea-e7ad-11f1-bf19-fe12c78780db.json",
+    "custom_hotspots": "/Users/leehoiching/WorkBuddy AI/2026-11-17-16-44-45/B24_PixPlot_Trial_02/output/data/hotspots/user_hotspots.json",
+    "gzipped": false,
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "24-November-2026-10:22:50"
+}
