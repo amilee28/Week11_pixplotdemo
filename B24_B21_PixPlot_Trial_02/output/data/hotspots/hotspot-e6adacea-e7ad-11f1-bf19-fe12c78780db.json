@@ -1,0 +1,117 @@
+[
+    {
+        "images": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            50,
+            51,
+            52,
+            53,
+            57,
+            58,
+            62
+        ],
+        "img": "B24P28.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            0,
+            4,
+            8,
+            9,
+            10,
+            14,
+            16,
+            17,
+            18,
+            23,
+            37,
+            65
+        ],
+        "img": "B24P31.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            33,
+            34,
+            35,
+            36,
+            38,
+            49,
+            54,
+            55,
+            56,
+            64
+        ],
+        "img": "B24P30.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            3,
+            6,
+            11,
+            19,
+            20,
+            21,
+            24,
+            25,
+            29
+        ],
+        "img": "B21P30.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            26,
+            27,
+            28,
+            30,
+            31,
+            32,
+            60
+        ],
+        "img": "B24P26.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            1,
+            2,
+            5,
+            7,
+            59,
+            63
+        ],
+        "img": "B24P29.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            12,
+            13,
+            15,
+            22,
+            61
+        ],
+        "img": "B24P27.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    }
+]
